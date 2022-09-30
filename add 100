@@ -1,0 +1,7 @@
+        INP
+        STA NUM
+        ADD HUNDRED
+        OUT
+        HLT
+HUNDRED DAT 100
+NUM     DAT
