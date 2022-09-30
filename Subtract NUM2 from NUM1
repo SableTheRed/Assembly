@@ -1,0 +1,9 @@
+        INP
+        STA NUM1
+        INP
+        STA NUM2
+        SUB NUM1
+        OUT
+        HLT
+NUM1    DAT
+NUM2    DAT
