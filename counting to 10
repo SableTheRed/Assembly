@@ -1,0 +1,11 @@
+looptop lda count
+        add one
+        out
+        sta count
+        sub const
+        brp endloop
+        bra looptop
+endloop hlt
+const   dat 10
+count   dat 0
+one     dat 1
