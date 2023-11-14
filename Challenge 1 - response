@@ -1,0 +1,12 @@
+        inp
+        sta num1
+        inp 
+        sta num2
+        sub num1
+        out
+        lda num1
+        sub num2
+        out
+        hlt
+num1    dat
+num2    dat
