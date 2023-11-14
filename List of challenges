@@ -1,0 +1,36 @@
+Write a program that will prompt for 2 numbers, subtract the first from the second and output the answer, then subtract the second from the first and output the answer.
+
+Write a program to output the numbers 1 to 10 in ascending order.
+
+Write a program to output the numbers 1 to 10 in descending order.
+
+Write a program to input a number then count up to that number in steps of 2, outputting the sequence.
+
+Write a program that will input two numbers and multiply them.
+
+Extend the program above that it will let the user repeatedly input and multiply pairs of numbers, only stopping if a zero is entered.
+
+Extend the program above so it will let the user enter either or both numbers as negative values.
+
+Write a program that will prompt for 2 numbers and check if they are the same. If they are then the program should output the number 1. If they are not then the program should output the number 0.
+
+Write a program that will input an number, then output the square of the number.
+
+Modify the squares program above so if an input above 31 is entered then it will output a zero.
+
+Modify the squares program above so it will also square negative number inputs.
+
+Write a program to input 3 numbers and then output the highest.
+
+Write a program to input 3 numbers and then output the highest AND the lowest.
+
+Write a program to divide one number by another.
+
+Modify the previous program so it generates a decimal answer rather than a remainder.
+A simple way to do this is to multiply the remainder by 10 and then divide this number by the original divisor. If this is repeated it will generate the result of the division to unlimited decimal places. This can be done in 42 lines of LMC code.
+
+Write a program to input a number and then outputs:
+a) the number
+b) the integer square root
+c) the remainder.
+A simple way to calculate an integer square root is to count how many times increasing odd numbers can be subtracted from the starting value.
